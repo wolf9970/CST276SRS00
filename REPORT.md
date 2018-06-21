@@ -1,4 +1,4 @@
-Class ID: 
+Name: <Your name here>
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
