@@ -1,17 +1,6 @@
 # CST000SRS00
 Hello World
 
-
-Class ID: 
-
-SRS ID: *CST???SRS00*
-
-Unresolved Issues:  None for now. 
-
-Notes: None. 
-
----
-
 See: [Wikipedia Hello, World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).  
 See: [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown).  
 
